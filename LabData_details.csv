@@ -1,0 +1,28 @@
+Patient_id,Patient_Name,itemid,test_name,category,fluid,loinc_code,loinc_description
+510034,Lynette Oyola,50001,AADO2,BLOOD GAS,BLOOD,19991-9,Oxygen.alveolar - arterial [Partial pressure] Respiratory system
+510035,Stacey Peacock,50002,BASE XS,BLOOD GAS,BLOOD,11555-0,Base excess in Blood
+510036,Julie Renfro,50003,CARBOXYHB,BLOOD GAS,BLOOD,20563-3,Carboxyhemoglobin/Hemoglobin.total in Blood
+510037,Danny Reyes,50004,CL-BLOOD,BLOOD GAS,BLOOD,2069-3,Chloride [Moles/volume] in Blood
+510038,Jacki Russell,50006,GLUCOSE,BLOOD GAS,BLOOD,2339-0,Glucose [Mass/volume] in Blood
+510039,Thomas Santos,50007,HGB,BLOOD GAS,BLOOD,718-7,Hemoglobin [Mass/volume] in Blood
+510040,Mireille Townsend,50008,INTUBATED,BLOOD GAS,BLOOD,,
+510041,Lillian Venson,50009,K+,BLOOD GAS,BLOOD,6298-4,Potassium [Moles/volume] in Blood
+510042,Gail Watson,50010,LACTATE,BLOOD GAS,BLOOD,32693-4,Lactate [Moles/volume] in Blood
+510043,Johnson White,50011,MET HGB,BLOOD GAS,BLOOD,2614-6,Methemoglobin/Hemoglobin.total in Blood
+510044,Rebecca Zwick,50012,NA+,BLOOD GAS,BLOOD,2947-0,Sodium [Moles/volume] in Blood
+510045,Robert Aragon,50013,O2,BLOOD GAS,BLOOD,19994-3,Oxygen/Inspired gas setting [Volume Fraction] Ventilator
+510046,Ashley Borden,50014,O2 FLOW,BLOOD GAS,BLOOD,3151-8,Inhaled oxygen flow rate
+510047,Thomas Conley,50015,O2 SAT,BLOOD GAS,BLOOD,20564-1,Oxygen saturation in Blood
+510048,Susan Davis,50016,PCO2,BLOOD GAS,BLOOD,11557-6,Carbon dioxide [Partial pressure] in Blood
+510049,Christopher Diaz,50017,PEEP,BLOOD GAS,BLOOD,20077-4,Positive end expiratory pressure setting Ventilator
+510050,Rick Edwards,50018,PH,BLOOD GAS,BLOOD,11558-4,pH of Blood
+510051,Victor Faulkner,50019,PO2,BLOOD GAS,BLOOD,11556-8,Oxygen [Partial pressure] in Blood
+510052,Lisa Garrison,50020,RATES,BLOOD GAS,BLOOD,,
+510053,Marjorie Green,50021,REQ O2,BLOOD GAS,BLOOD,,
+510054,Mark Hall,50022,TCO2,BLOOD GAS,BLOOD,1959-6,Bicarbonate [Moles/volume] in Blood
+510055,James Heard,50023,TEMP,BLOOD GAS,BLOOD,,
+510056,Albert Iorio,50024,TIDAL VOL,BLOOD GAS,BLOOD,20112-9,Tidal volume setting Ventilator
+510057,Charles Jackson,50025,TOTAL CO2,BLOOD GAS,BLOOD,1959-6,Bicarbonate [Moles/volume] in Blood
+510058,Teresa Kaminski,50027,VENT,BLOOD GAS,BLOOD,,
+510059,Tim Lowe,50029,calcHCT,BLOOD GAS,BLOOD,20570-8,Hematocrit [Volume Fraction] of Blood
+510060,Monte Mceachern,,,,,,
